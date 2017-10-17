@@ -17,6 +17,7 @@ public class Gittest {
     public static void main(String[] args) {
         System.out.println("ahoj");
         System.out.println("xxx");
+        int a = 5;
     }
     
 }
